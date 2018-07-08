@@ -27,3 +27,5 @@ matplotlib and seaborn: data visualization.
 bayes_opt: Bayesian Optimization.
 sklearn: Sci-kit Learn for model buidling and evaluation.
 xgboost: XGBoost algorithm.
+
+## TO RUN THE NOTEBOOK: open the "FINTECH PROJECT.ipynb" file and run it. 
